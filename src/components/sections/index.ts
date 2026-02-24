@@ -1,0 +1,9 @@
+export { Hero } from "./hero";
+export { ServicesGrid } from "./services-grid";
+export { Testimonials } from "./testimonials";
+export { CtaSection } from "./cta-section";
+export { StatsBar } from "./stats-bar";
+export { FaqAccordion } from "./faq-accordion";
+export { TeamGrid } from "./team-grid";
+export { BlogPreview } from "./blog-preview";
+export { SectionHeader } from "./section-header";
